@@ -1,0 +1,18 @@
+@import url('Modules/Variables.css');
+@import url('Modules/Navigation.css');
+@import url('Modules/Sections.css');
+@import url('Modules/Projects.css');
+@import url('Modules/Footer.css');
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0f0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #e63946;
+    border-radius: 5px;
+}
