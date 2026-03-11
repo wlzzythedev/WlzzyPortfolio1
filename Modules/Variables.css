@@ -34,4 +34,6 @@ h4 {
     letter-spacing: 2px;
     color: var(--accent-red);
     font-size: 0.9rem;
+    opacity: 0.5;
 }
+
