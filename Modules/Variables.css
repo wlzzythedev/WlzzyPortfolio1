@@ -27,3 +27,11 @@ main {
     margin: var(--nav-height) auto 0;
     padding: 80px 24px;
 }
+
+h4 {
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--accent-red);
+    font-size: 0.9rem;
+}
